@@ -525,6 +525,24 @@ Year | Needs
 </small>
 
 <!-- 10 months planting or 300 days * 40 = 1200 per plot -->
+
+---
+
+<h4 style="">Potential Partners</h4>
+
+<small>A few notable companies have expressed interest in using the Pantrypoints system as partners</small>
+
+<img src="/wv.jpg" height="50px">
+
+<img src="/yovel.png" height="100px">
+
+<img src="/greenlife.jpg" height="100px">
+
+<img src="/foodrescue.png" height="100px">
+
+<img src="/dalta.png" height="100px">
+
+
 ---
 
 <h4 style="">History</h4>
