@@ -31,7 +31,7 @@ You need to <b>guard</b> the money -- this <b>raises the cost</b> and creates th
 
 You need to <b>wait</b> for the money payments. Delays can halt production
 
-People <b>chase money</b> instead of chasing skills and productivity 
+People <b>chase money</b> instead of chasing skills and productivity. This leads to <b>people talking instead of doing</b>.
 
 </small>
 
@@ -68,7 +68,7 @@ Afterwards, credit crises and large wars became frequent.
 <h4 style="color: white; background-color: black; opacity: .9;">Crises Can be Predicted</h4>
 
 <small style="color: white; background-color: black; opacity: .8; padding: 15px;">
-The Pattern of Money and Crises helped us create a model that predicted a global stagflation starting from 2019, eventually leading to war. 
+The Pattern of Money and Crises helped us create a model that predicted <b>a global stagflation starting from 2019</b>, eventually leading to war. 
 
 Governments will not be able to solve it because all governments are money-minded (*mukhang pera*).
 </small>
@@ -89,7 +89,7 @@ Governments will not be able to solve it because all governments are money-minde
 <!-- background-color: #2b2e19;" -->
 <h5 style="color: white; background-color: black; opacity: .9; padding: 15px">The ancient solution was delayed-barter</h5>
 
-<small style="color: white; background-color: black; opacity: .9; padding: 15px">The Inca avoided crises by using strings, as knots, to record the value of the work done by the citizens. It would pay them with food from the granary. This system created economic order and reduced war. Instead of knots, we use <b>points</b>.
+<small style="color: white; background-color: black; opacity: .9; padding: 15px">The Inca government avoided crises by using strings, as knots, to record the value of the work done by the citizens. It would pay the people with food from the granary. This system created economic order and reduced war. Instead of knots, we use <b>points</b>.
 </small>
 
 ![](/quipu.jpg)
@@ -103,17 +103,19 @@ Governments will not be able to solve it because all governments are money-minde
 <!-- #004b98; -->
 <h5 style="color: white; background-color: black; opacity: .9; padding: 15px">Precolonial Philippines (as Ma-i or Maharlika Used Delayed-Barter</h5>
 
-<svg fill='white' class='' height='50px' viewBox='0 0 512 512'><path d='M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z'/></svg>
-
 <small style="text-align: left; color: white; background-color: black; opacity: .9; padding: 15px">
-The Maharlikan traders assemble in crowds and carry the goods away with them in baskets. Even if the foreign merchants do not know the Maharlikan traders, <b>there will be no loss</b>. 
+Historian Chau Ju Kua writes:
+
+<!-- <svg fill='white' class='' height='50px' viewBox='0 0 512 512'><path d='M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z'/></svg> -->
+
+"The Maharlikan traders assemble in crowds and carry the goods away with them in baskets. Even if the foreign merchants do not know the Maharlikan traders, <b>there will be no loss</b>. 
 
 The native traders will bring those goods to other islands for barter. It will take <b>8-9 months for them to return</b>. They then repay the foreign merchants with what they had obtained for the goods. 
 
-Some, however, do not return within the proper time. This delay is why vessels trading with Maharlika are the last to return home.
+Some, however, do not return within the proper time. This delay is why vessels trading with Maharlika are the last to return home."
 
 <div style="padding-left: 300px;">
--- Chau Ju Kua (Chun Fan Chi, an account of 12th century Philippine foreign trade)
+-- Chun Fan Chi, an account of 12th century Philippine foreign trade
 </div>
 </small>
 
@@ -168,7 +170,7 @@ Parents never 'monetize' their children. Instead, they ask their children to do 
 
 <!-- Raises the Morality Level -->
 
-<p style="text-align: left; padding: 10px; color: white; background-color: black; opacity: .9;">Emotional Quotient (EQ) is seen in the Marshmallow test where children chose to get their rewards later. Such children became successful in life.</p> 
+<p style="text-align: left; padding: 10px; color: white; background-color: black; opacity: .9; padding: 10px">Emotional Quotient (EQ) is seen in the Marshmallow test where children chose to get their rewards later. Such children became successful in life.</p> 
 
 
 
@@ -186,9 +188,9 @@ Parents never 'monetize' their children. Instead, they ask their children to do 
 
 <small style="color: white; background-color: black; opacity: .8; padding: 15px;">
 
-- Local Government provides seeds and fertilizer to urban farmer
-- They write the valuation in "point-cards"
-- Urban farmer gives part of the harvest to the Local Government according to the point-cards
+1. Local Government provides seeds and fertilizer to urban farmer
+2. They write the valuation in "point-cards"
+3. Urban farmer gives part of the harvest to the Local Government according to the point-cards
 
 </small>
 
@@ -247,7 +249,9 @@ The App does the work of Points cards and lets users transact points with each o
 
 Software developers are expensive because they have to go through a 4-year course. 
 
-We will train our own software developers from high school level using the Bootcamp model, with help from University of Perpetual Help (Las Pinas) and San Francisco High School (Quezon City)
+We will train our own software developers from high school level using the Bootcamp model, with help from:
+- University of Perpetual Help (Las Pinas)
+- San Francisco High School (Quezon City)
 
 This will make websites, apps, IoT, blockchain, and data science **cheap** so that more Micro-Small Businesses can use them.
 
@@ -264,6 +268,7 @@ This will make websites, apps, IoT, blockchain, and data science **cheap** so th
 
 <small style="color: white; background-color: black; opacity: .8; padding: 15px;">
 Delayed barter uses points pegged to the retail price of basic rice (NFA) which is linear and predictable. 
+
 
 - 2003 - 21 pesos
 - 2010 - 27 pesos
@@ -288,7 +293,8 @@ This will create stability in the economy, different from the current volatile p
 <h5 style="color: white; background-color: black; opacity: .8; padding: 10px;">Expansion to World Trade</h5>
 
 <small style="color: white; background-color: black; opacity: .8; padding: 15px">
-The points system expands to world trade via Pool Clearing, where national rice price is the basis of currency.
+
+The points system expands to world trade via [Pool Clearing](https://www.pool.pantrypoints.com), where national rice price is the basis of currency.
 
 For example, the "pool exchange rates" between Vietnam and the Philippines is below
 
@@ -395,14 +401,154 @@ They earn by getting a cut of the points-taxation.
 
 <h4 style="color: white; background-color: black; opacity: .8; padding: 10px;">Implementation: Village Contract Farming</h4>
 
+<small>We create a circular economy based on bicycles and manual labor in order to mitigate the effects of high oil and energy prices.</small>
+
 ![1](/vcf1.jpg)
 
-<small>Step 1: We collect plastic waste and food waste from participating homeowners</small>
+<small>Step 1: We collect plastic waste and kitchen waste from participating homeowners</small>
+
 
 ---
 
-<h4 style="color: white; background-color: black; opacity: .8; padding: 10px;">Implementation: Village Contract Farming</h4>
+<!-- <h4 style="color: white; background-color: black; opacity: .8; padding: 10px;">Implementation: Village Contract Farming</h4> -->
 
-![1](/vcf1.jpg)
+![1](/vcf2.jpg)
 
-<small>Step 1: We collect plastic waste and food waste from participating homeowners</small>
+<small>Step 2: We bring plastic waste to recyclers, and kitchen waste to composters to become fertilizers.</small>
+
+---
+
+<!-- <h4 style="color: white; background-color: black; opacity: .8; padding: 10px;">Implementation: Village Contract Farming</h4> -->
+
+![1](/vcf3.jpg)
+
+<small>Step 3: We use the fertilizers to grow crops in rent-free urban plots with community labor.</small>
+
+---
+
+<!-- <h4 style="color: white; background-color: black; opacity: .8; padding: 10px;">Implementation: Village Contract Farming</h4> -->
+
+![1](/vcf4.jpg)
+
+<small>Step 4: We give most of the harvest to the community. The excess we sell for cash to pay interest to the lender.</small>
+
+---
+
+<!-- <h4 style="color: white; background-color: black; opacity: .8; padding: 10px;">Implementation: Village Contract Farming</h4> -->
+
+![1](/vcf5.jpg)
+
+<small>Step 5: We use the small cash flow to get a bigger loan to implement the system in larger farms outside of the city to eventually sell for export.</small>
+
+---
+
+<h4 style="">Results: 23% Success Rate</h4>
+
+<small>
+
+We seeded 6 plots in various areas with volunteer growers. Only 3 plots produced crops leading to a 23% success rate (105 sqm out of 465 sqm). The larger the plot, the greater the chance of failure. Thus, our focus is to increase the number of plots.
+
+<!-- due to neglect, labor requirements, and other factors -->
+
+</small>
+
+![1](/plots.jpg)
+
+
+---
+
+<h4 style="">Funding Needs: Php 100,000 Peso grant</h4>
+
+
+<small>
+To increase the success rate, we plan to give rice as incentive to the volunteer growers, as consumables of 1 kilo per hour of labor  
+
+Jan 2023-Jan 2024
+
+Item | Cost
+--- | ---
+1 Second hand Motorbike for transport | 40,000
+1 Laptop | 20,000
+2 Android Phones | 12,000
+10 Consumables per Plot @ 1,500 per plot | 15,000
+1 Petty Cash for prizes, government fees, etc | 10,000
+1 Second hand Bicycle | 3,000
+
+</small>
+
+
+
+
+---
+
+<h4 style="">Projected Timeline Year 1</h4>
+
+<small>
+
+Month | Goal
+--- | ---
+Jan 2023 | Register company as Barangay Micro Business and make websites and apps for micro and small businesses to earn cash and grow network
+Feb-March 2023 | Finalize agreements with LGUs and donors on plots for planting 
+April 2023 | Finalize agreements with barangays or NGOs for labor. Start sowing seeds
+May 2023 | Transplant seedlings
+July 2023 | Measure harvest and start sowing batch 2
+Aug 2023 | Transplant batch 2
+Oct 2023 | Measure harvest and start sowing batch 3
+Nov 2023 | Transplant batch 3
+Jan 2024 | Measure harvest
+
+</small>
+
+<!-- 10 months planting or 300 days * 40 = 1200 per plot -->
+
+---
+
+<h4 style="">Annual Funding Projection</h4>
+
+<small>
+A foreign impact investor has expressed interest in lending USD 1 million if we can attain a large cash flow. We aim to get it after 2030. Unpaid loans will be converted to equity which we expect before 2030.
+
+
+Year | Needs
+--- | ---
+2023 | Grant: Php 100,000 (Register as sole prop)
+2024 | Loan: Php 30,000
+2025 | Loan: Php 100,000
+2026 | Loan: Php 300,000
+2027 | Loan: Php 500,000 (Test in large farms)
+2028 | Loan: Php 1m 
+2029 | Loan: Php 3m (Conversion to corporation)
+2030 | Loan: Php 10m
+2031 | Loan: Php 30m 
+2032 | Loan: Usd 1m (Expand overseas)
+
+</small>
+
+<!-- 10 months planting or 300 days * 40 = 1200 per plot -->
+---
+
+<h4 style="">History</h4>
+
+<small>
+
+Year | Details
+--- | ---
+2009 | Juan applies for MEXT scholarship to Japan to research solutions to the Financial Crisis but is not accepted
+2010 | Juan moves to Vietnam to work in web development while doing personal research, looking into Vietnamese agricultural policies
+2015 | Juan applies for MEXT research scholarship to publish his research but fails to get scholarship 
+2017 | Juan registers a tech startup, SORA (**SO**cial **R**esource **A**llocation), to implement his solution as a points-based economic system in preparation for a 2019 stagflation 
+2018 | Juan fails to get investors so Juan closes SORA and returns Manila to continue the research
+2020 | Covid creates the predicted stagflation. Juan changes SORA into "Pantrypoints" inspired by community pantries 
+2022 | Small businesses join the Pantrypoints system 
+
+</small>
+
+---
+
+For more information
+
+Founder | Juan Dalisay Jr.
+--- | ---
+Website | [pantrypoints.com](https://www.pantrypoints.com/)
+Mobile | 09605 424 101
+Email | pantrypoints@gmail.com 
