@@ -9,7 +9,7 @@ outputs = ["Reveal"]
 <h3 style="color: dodgerblue; background-color: whitesmoke; opacity: .8;">What is Pantrypoints?</h3>
 
 <p style="color: black; background-color: whitesmoke; text-align: left; opacity: .8; padding: 15px;">
-A <b>points-based economic system</b>, as delayed barter, designed to solve the problems with the money system such as inflation, poverty, inequality, unemployment, stagnation, financial crises, debt crises, trade wars, etc.
+A <b>points-based economic system</b>, as stored-value barter, designed to solve the problems with the money system such as inflation, poverty, inequality, unemployment, stagnation, financial crises, debt crises, trade wars, etc.
 </p>
 
 <small style="color: black; background-color: whitesmoke; text-align: left; opacity: .8; padding: 15px;">(Press `spacebar` or click on the arrow on the lower right to continue. Press `Esc` to browse the slides)</small>
@@ -87,9 +87,9 @@ Governments will not be able to solve it because all governments are money-minde
 {{< slide background-image="/inca.jpg" >}}
 
 <!-- background-color: #2b2e19;" -->
-<h5 style="color: white; background-color: black; opacity: .9; padding: 15px">The ancient solution was delayed-barter</h5>
+<h5 style="color: white; background-color: black; opacity: .9; padding: 15px">The ancient solution was stored-value barter</h5>
 
-<small style="color: white; background-color: black; opacity: .9; padding: 15px">The Inca government avoided crises by using strings, as knots, to record the value of the work done by the citizens. It would pay the people with food from the granary. This system created economic order and reduced war. Instead of knots, we use <b>points</b>.
+<small style="color: white; background-color: black; opacity: .9; padding: 15px">The Inca government avoided crises by using strings, as knots, to record the value of the work done by the citizens. It would pay the people with food from the granary. This system created economic order and reduced war. Instead of knots, we use <b>points</b>. Instead of granaries, we use pantries, thus leading to <b>Pantrypoints</b>. 
 </small>
 
 ![](/quipu.jpg)
@@ -134,9 +134,9 @@ Some, however, do not return within the proper time. This delay is why vessels t
 {{< slide background-image="/trade.jpg" >}}
 
 <!-- #b4875d; -->
-<h5 style="background-color: black; color: white; opacity: .9; padding: 15px">What is Delayed Barter?</h5>
+<h5 style="background-color: black; color: white; opacity: .9; padding: 15px">What is Stored-Value Barter?</h5>
 
-<p style="background-color: black; color: white; opacity: .9; padding: 15px">Delayed Barter uses <b>records</b> to prove the claims of traders. Immediate barter does not use records.</p>
+<p style="background-color: black; color: white; opacity: .9; padding: 15px">Stored-Value Barter uses <b>records</b> to prove the claims of traders. Immediate barter does not record or 'store' values.</p>
 
 <small style="background-color: black; color: white; opacity: .9; padding: 15px">
 
@@ -151,10 +151,10 @@ Some, however, do not return within the proper time. This delay is why vessels t
 {{< slide background-image="/family.jpg" >}}
 
 
-<h5 style="color: white; background-color: black; opacity: .9; padding: 15px">Delayed Barter is a Debt System in Kind</h5>
+<h5 style="color: white; background-color: black; opacity: .9; padding: 15px">Stored-Value Barter is a Debt System in Kind</h5>
 
 <small style="text-align: left; color: white; background-color: black; opacity: .9; padding: 15px">
-An example of delayed barter is the family economy. 
+An example of stored-value barter is the family economy. 
 
 The parents spend for their children who are expected to bring home good grades in return, and be productive in the future.
 
@@ -165,7 +165,7 @@ Parents never 'monetize' their children. Instead, they ask their children to do 
 
 {{< slide background-image="/eq.jpg" >}}
 
-<h5 style="color: white; background-color: black; opacity: .9; padding: 15px">Delayed Barter Nourishes EQ and Delays Gratification</h5>
+<h5 style="color: white; background-color: black; opacity: .9; padding: 15px">Stored-Value Barter Nourishes EQ and Delays Gratification</h5>
 
 
 <!-- Raises the Morality Level -->
@@ -348,16 +348,6 @@ We will then sell it for cash to remit to government (as modern 'tax farmers') a
 </small>
 
 {{% /section %}}
-
-<!-- {{< slide background-image="/pointtax.jpg" >}}
-
-<h5 style="color: white; background-color: black; opacity: .8; padding: 10px;">Revenue Model</h5>
-
-<small style="color: white; background-color: black; opacity: .8; padding: 15px">
-Users pay a small amount of points as a transaction fee. 
-
-</small>
- -->
 
 <!-- Users who do not pay will have their access suspended. 
 
