@@ -70,7 +70,7 @@ Afterwards, credit crises and large wars became frequent.
 <small style="color: white; background-color: black; opacity: .8; padding: 15px;">
 The Pattern of Money and Crises helped us create a model that predicted <b>a global stagflation starting from 2019</b>, eventually leading to war. 
 
-Governments will not be able to solve it because all governments are money-minded (*mukhang pera*).
+Governments will not be able to solve it because all governments are money-minded (*mukhang pera*). For example, the solution of the Philippine government to the Covid recession was to incur trillions of new debt. 
 </small>
 
 ![](/crisis.png)
@@ -249,9 +249,11 @@ The App does the work of Points cards and lets users transact points with each o
 
 Software developers are expensive because they have to go through a 4-year course. 
 
-We will train our own software developers from high school level using the Bootcamp model, with help from:
+We will train our own software developers from high school level using the Bootcamp model
+
+<!-- , with help from:
 - University of Perpetual Help (Las Pinas)
-- San Francisco High School (Quezon City)
+- San Francisco High School (Quezon City) -->
 
 This will make websites, apps, IoT, blockchain, and data science **cheap** so that more Micro-Small Businesses can use them.
 
@@ -264,11 +266,13 @@ This will make websites, apps, IoT, blockchain, and data science **cheap** so th
 
 {{< slide background-image="/grains.jpg" >}}
 
-<h5 style="color: white; background-color: black; opacity: .8; padding: 10px">Points Mechanism:<br> 1 Point = Price of 1 kg rice</h5>
+<h5 style="color: white; background-color: black; opacity: .8; padding: 10px">Points Mechanism:<br> 1 Point = 38 pesos (as of January 2023)</h5>
 
 <small style="color: white; background-color: black; opacity: .8; padding: 15px;">
-Delayed barter uses points pegged to the retail price of basic rice (NFA) which is linear and predictable. 
+The 38 pesos represents the retail price of basic rice (NFA), which is linear and predictable. 
 
+<br>
+<br>
 
 - 2003 - 21 pesos
 - 2010 - 27 pesos
@@ -277,7 +281,7 @@ Delayed barter uses points pegged to the retail price of basic rice (NFA) which 
 - 2022 - 38 pesos
 
 
-This will create stability in the economy, different from the current volatile pricing of stocks and oil. 
+This will create stability in the economy, different from the fiat system which is based on nothing.
 
 </small>
 
@@ -453,16 +457,15 @@ We seeded 6 plots in various areas with volunteer growers. Only 3 plots produced
 <small>
 To increase the success rate, we plan to give rice as incentive to the volunteer growers, as consumables of 1 kilo per hour of labor  
 
-Jan 2023-Jan 2024
+Feb 2023-Jan 2024
 
 Item | Cost
 --- | ---
-1 Second hand Motorbike for transport | 40,000
-1 Laptop | 20,000
-2 Android Phones | 12,000
-10 Consumables per Plot @ 1,500 per plot | 15,000
-1 Petty Cash for prizes, government fees, etc | 10,000
-1 Second hand Bicycle | 3,000
+1 Second hand Motorbike for transport | 45,000
+Consumables for 2 plots for 1 year | 30,000
+Petty Cash for prizes, Insurance, Government fees (paperwork, notarization, etc) | 11,000
+2 Android Phones | 10,000
+2 Second-hand Bicycles with rack | 4,000
 
 </small>
 
@@ -477,7 +480,7 @@ Item | Cost
 
 Month | Goal
 --- | ---
-Jan 2023 | Register company as Barangay Micro Business and make websites and apps for micro and small businesses to earn cash and grow network
+Feb 2023 | Register company as Barangay Micro Business and make websites and apps for micro and small businesses to earn cash and grow network (such as SuperPaso)
 Feb-March 2023 | Finalize agreements with LGUs and donors on plots for planting 
 April 2023 | Finalize agreements with barangays or NGOs for labor. Start sowing seeds
 May 2023 | Transplant seedlings
@@ -493,10 +496,10 @@ Jan 2024 | Measure harvest
 
 ---
 
-<h4 style="">Annual Funding Projection</h4>
+<h4 style="">Investment Plan: Grant-to-Loan-to-Equity</h4>
 
 <small>
-A foreign impact investor has expressed interest in lending USD 1 million if we can attain a large cash flow. We aim to get it after 2030. Unpaid loans will be converted to equity which we expect before 2030.
+We advocate a grant-to-loan-to-equity model. Stakeholders give a small grant of $100 to $2,000 to start a community plot for their own benefit on year 1. If successful, subsequent years will be funded by loans. After 5-10 years, unpaid loans will be converted to equity
 
 
 Year | Needs
@@ -559,4 +562,4 @@ Founder | Juan Dalisay Jr.
 --- | ---
 Website | [pantrypoints.com](https://www.pantrypoints.com/)
 Mobile | 09605 424 101
-Email | pantrypoints@gmail.com 
+Email | jundalisay@gmail.com 
